@@ -32,9 +32,6 @@ The hardest part was ensuring that all three bottom columns remained equal in he
 **2. Footer visibility**  
  The footer floated incorrectly due to uneven content heights. Adding `flex-grow` on the main element and a proper `min-height` layout fixed this issue.
 
-**3. Image organization**  
-Ensuring that all images loaded correctly required strict file naming and consistent folder structure (`images/` directory). I also used placeholder images temporarily to maintain layout during development.
-
 ---
 
 ## What I Learned
