@@ -4,7 +4,7 @@
 
 ## About the Project
 
-This website was created as the final project for the MTM6201 User Experience Design course. The goal was to take my existing high-fidelity wireframes and build a fully functional and responsive website using the Bootstrap framework.
+This website was created as the final project for the User Experience Design course. The goal was to take my existing high-fidelity wireframes and build a fully functional and responsive website using the Bootstrap framework.
 
 The site represents a fictional animal rescue organization called **Pawsitive Futures**, dedicated to helping pets find homes, educating the public, and supporting surrender and volunteer programs.
 
@@ -12,7 +12,7 @@ The site represents a fictional animal rescue organization called **Pawsitive Fu
 
 ## Process & Development
 
-The design started with a mobile-first approach and was structured around three key content areas: adoption/animals, involvement, and education. Using Bootstrap’s grid system made layout management more efficient, and utility classes helped speed up spacing, responsiveness, and alignment.
+The design started with, and was structured around three key content areas: adoption/animals, involvement, and education. Using Bootstrap’s grid system made layout management more efficient, and utility classes helped speed up spacing, responsiveness, and alignment.
 
 The layout includes:
 - A responsive 4-column animal section
@@ -53,6 +53,8 @@ The following assets were not created by me and are credited accordingly:
 ### Frameworks / Libraries
 - [Bootstrap 5](https://getbootstrap.com/) – CSS framework used for layout and styling
 - [Google Fonts – Dynapuff](https://fonts.google.com/specimen/Dynapuff) – Primary font used across headings and body text
+
+*Note: Notation taken from imdac and https://getbootstrap.com/docs/4.0/utilities/spacing/ bootstrap website notation page
 
 ### Placeholder Images
 All stock images were used temporarily or replaced with royalty-free animal images for demonstration purposes.
