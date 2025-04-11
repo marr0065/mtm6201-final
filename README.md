@@ -57,13 +57,12 @@ The following assets were not created by me and are credited accordingly:
 ### Placeholder Images
 All stock images were used temporarily or replaced with royalty-free animal images for demonstration purposes.
 
-| Filename           | Source / Notes                      |
-|--------------------|-------------------------------------|
-| `rabbit.jpg`       | Placeholder for "Get Involved"      |
-| `lizard.jpg`       | Placeholder for "Education"         |
-| `surrender.jpg`    | Placeholder for "Surrender section" |
-| `volunteer.jpg`    | Added image under "Volunteer"       |
-| `dogs.jpg`, `cats.jpg`, `reptiles.jpg`, `birds.jpg` | Animal category thumbnails |
+
+`rabbit.jpg`    
+`lizard.jpg`      
+`surrender.jpg`   
+`volunteer.jpg`    
+`dogs.jpg`, `cats.jpg`, `reptiles.jpg`, `birds.jpg` 
 
 *Note: the Images were collected from the stock site https://www.pexels.com and the logo was generated from dall-e
 
