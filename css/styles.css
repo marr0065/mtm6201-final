@@ -1,3 +1,7 @@
+/*
+ *   Copyright (c) 2025 
+ *   All rights reserved.
+ */
 :root {
     --green: #4A7C59;
     --brown: #A67C52;
@@ -60,7 +64,7 @@
     text-transform: uppercase;
   }
   
-  /* Info Columns */
+
   .info-box {
     background-color: var(--white);
     color: var(--dark);
@@ -94,8 +98,7 @@
     display: inline-block;
     margin-bottom: 0.5rem;
   }
-  
-  /* Footer */
+
   .footer {
     background-color: var(--light);
     color: var(--dark);
